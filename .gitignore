@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+.python/
+__pycache__/
+.pytest_cache/
+models/
+runtime/
+apps/web/dist/
+.env
+.env.*
+!.env.example
+# Model checkpoints stay local, even if copied outside models/.
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+.DS_Store

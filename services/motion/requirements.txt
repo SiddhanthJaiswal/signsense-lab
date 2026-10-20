@@ -1,0 +1,14 @@
+torch==2.5.1
+transformers==4.57.1
+tokenizers==0.22.1
+sentencepiece==0.2.1
+safetensors==0.6.2
+huggingface_hub==0.35.3
+numpy==2.2.6
+einops==0.8.1
+accelerate==1.10.1
+fastapi==0.119.1
+uvicorn==0.38.0
+pytest==8.4.2
+httpx==0.28.1
+smplx==0.1.28

@@ -1,0 +1,9 @@
+{
+  "config.json": "ee7a46774519748b80065044f38b9353703b1e0717e726fece4c6d8ddf9d2826",
+  "map_ids.pkl": "e73ecde295cc7c8f84d814a79cdfaf58f14106d0e3173926856d82238361e5aa",
+  "sentencepiece.bpe.model": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+  "mean.pt": "38041ea364a5b1e187f7d633edd3ae564e1f8771506b7390fee48e80e3de0c23",
+  "std.pt": "88ed5e7e9f484d35908088a22295fb6a8c05e1ad50f6dcf2018a253aa6bffee4",
+  "word2code.json": "4ffdae3589d62e427674fc7b8f3004b42a6915bbe44ebd17d6568bd5adde0d84",
+  "model.safetensors": "a701e8e56c8033c9e7d92abf8e8ddb712e64c6aa1abc4063479fd92d3ab214e6"
+}
